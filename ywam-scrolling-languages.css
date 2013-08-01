@@ -1,0 +1,44 @@
+.scrolling-languages {
+    padding: 20px;
+    background-color: #BD3533;
+}
+
+.scrolling-languages p {
+    margin: 0;
+    color: white;
+    font-family: arial, sans-serif;
+}
+
+.scrolling-languages .title {
+    display: inline-block;
+
+    height: 50px;
+
+    position: relative;
+
+    margin-right: 20px;
+    padding-left: 80px;
+
+    font-size: 30px;
+    line-height: 45px;
+
+    background: url('logo-ywam.png') no-repeat top left;
+}
+
+.scrolling-languages .title .cursor {
+    height: 50px;
+
+    position: absolute;
+        top: 0;
+        left: 700px;
+        right: 0;
+
+    background-color: #BD3533;
+}
+
+.scrolling-languages .subtitle {
+    display: inline-block;
+
+    font-size: 20px;
+    line-height: 30px;
+}
