@@ -1,6 +1,6 @@
 # YWAM Scrolling Languages
 
-As requested, the code used to have 'Youth With A Mission' scrolling into different languages as seen on [ywam.org's](http://www.ywam.org) footer.
+As requested, the code used to have 'Youth With A Mission' scrolling into different languages as seen on [ywam.org's](http://www.ywam.org) footer. A demo can be found [here](http://joshuadelange.github.io/ywam-scrolling-languages/).
 
 
 ## How to implement this into your site
@@ -26,6 +26,7 @@ Copy and include the ywam-scrolling-language css and js files:
 CSS: `<link rel="stylesheet" href="ywam-scrolling-languages.css">`
 
 JS: `<script src="ywam-scrolling-languages.js"></script>`
+
 
 ### 3. Customize
 
